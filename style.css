@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+background-color: aqua;
+ }
+video{
+    margin-top: 105;
+    margin-left: 40%;
+
+}
+.common{
+    display: flex;
+}
+.one{
+    margin-left: 40%;
+}
+.two{
+    margin-left: 15.7%;
+}
+marquee{
+    margin-top: 10%;
+background-color: green;
+
+margin-left: 10%;
+margin-right: 10%;
+height:70px;
+
+}
+.div1{
+    text-align: center;
+    margin-top: 10px;
+}
+.div2{
+    color: white;
+font-weight: bold;
+font-size: 30px;
+
+}
+.div2:hover{
+    color: red;
+   
+
+}
+.div3{
+color: black;
+font-size: 20px;
+}
+
+.main { 
+    text-align: center; 
+    font-family: "Times New Roman"; 
+ } 
+
+ .marq { 
+    padding-top: 30px; 
+    padding-bottom: 30px; 
+ } 
+
+ .geek1 { 
+    font-size: 36px; 
+    font-weight: bold; 
+    color: white; 
+    text-align: center; 
+ } 
+
+ .geek2 { 
+    text-align: center; 
+ } 
+
+ .geek1:hover { 
+   
+    color: rgb(244, 25, 25); 
+    
+ } 
